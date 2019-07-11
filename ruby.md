@@ -30,9 +30,11 @@ rspec Is a framwork for ruby that tests code
 #### 4. Name three possible non-inheritance relationships between ruby objects? 
 
 //Your Answer
-    All objects use methods
-    objects can have instance variables
-    objects can have special methodes that has a built in use such as initialize and to_s
+    <!--All objects use methods-->
+    <!--objects can have instance variables-->
+    <!--objects can have special methodes that has a built in use such as initialize and to_s-->
+    NEW ANSWER?REVIEWED ANWSER
+    non inheritance are things like has many, belongs to, has one and "has and belongs to many"
 //Googled Answer
 
 
